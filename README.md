@@ -1,6 +1,5 @@
 # django-app-heroku
 
-CRUD app with user login.
-+ Bootstrap5
+CRUD app with user login. (Bootstrap5)
 
 
